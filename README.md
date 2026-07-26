@@ -2,12 +2,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Gayathri+%F0%9F%91%8B;Backend+%26+Full-Stack+Developer;Building+Real-World+Solutions;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
 
+
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gayathri026&color=6C63FF&style=flat-square&label=Profile+Views)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri026)
-
 [![Gmail](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:gayathriraj2605@gmail.com)
 
 </div>
