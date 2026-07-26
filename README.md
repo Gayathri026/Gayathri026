@@ -5,8 +5,10 @@
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gayathri026&color=6C63FF&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](linkedin.com/in/gayathri026)
-[![Gmail](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white)](gayathriraj2605@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gayathri026)
+
+[![Gmail](https://img.shields.io/badge/Email-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:gayathriraj2605@gmail.com)
 
 </div>
 
